@@ -27,7 +27,7 @@ It was an exciting challenge diving into these tools and seeing how they work to
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-- **Canvas **
+- **Canvas**
 - **GSAP (GreenSock Animation Platform)**
 - **Locomotive Scroll**
 
